@@ -236,7 +236,7 @@ public static class BossPowerPatches
 		[UsedImplicitly]
 		private static void Postfix(Player __instance, ref float __result)
 		{
-			__result *= 1 + CarryWeight.Total() / 100f;
+			__result += CarryWeight.Total();
 		}
 	}
 

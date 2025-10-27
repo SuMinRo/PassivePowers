@@ -35,7 +35,7 @@ powers_additional_lightning_defense: "Resists $1% additional damage as lightning
 powers_additional_poison_defense: "Resists $1% additional damage as poison."
 powers_additional_spirit_defense: "Resists $1% additional damage as spirit."
 powers_eitr_regen: "Increases Eitr regeneration by $1%."
-powers_carry_weight: "Increases maximum carry weight by $1%."
+powers_carry_weight: "Increases maximum carry weight by $1."
 powers_adrenaline_bonus: "Increases adrenaline gain by $1%."
 powers_stagger_resist: "Resists stagger by $1%."
 powers_block_stamina_usage: "Decreases block stamina usage by $1%."
